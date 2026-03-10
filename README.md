@@ -1,6 +1,7 @@
 ## Telescope-NumPy Compatibility Patch
 Author: Randy Essikpe
 Date: 2026-03-04
+DOI: 10.5281/zenodo.18933215
 
 # Telescope-Pipeline
 This is a fully comprehensive telescope pipeline. All deprecated aliases issues related to NumPy have been resolved. This repo only contains the pipeline details to recreate my working pipeline. All dependent packages and tools (such as Telescope, etc.) should be downloaded from the original GitHub repo.
