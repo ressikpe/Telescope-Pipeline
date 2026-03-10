@@ -1,6 +1,6 @@
 ## Telescope-NumPy Compatibility Patch
-Author: Randy Essikpe
-Date: 2026-03-04
+Author: Randy Essikpe\
+Date: 2026-03-04\
 DOI: 10.5281/zenodo.18933215
 
 # Telescope-Pipeline
